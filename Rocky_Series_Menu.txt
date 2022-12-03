@@ -1,0 +1,19 @@
+<channels>
+<channel>
+<name>[B]Rocky Series - Skazana[/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ppJu4ljpUUnNfSvltOMAS2QrZ7N.jpg</thumbnail> Small pic
+<externallink>https://raw.githubusercontent.com/RockyBalboa2022/Rocky_Series_Folder_TXT/main/Serial_Skazana.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/w780/k7oG0fi8zwV3fJJialemqm5VLlZ.jpg</fanart> Bic pic
+<info>[B]Rocky Series - Skazana[/B]</info>
+</channels>
+</channel>
+
+<channels>
+<channel>
+<name>[B]Rocky Series - [/B]</name>
+<thumbnail></thumbnail> Small pic
+<externallink></externallink>
+<fanart></fanart> Bic pic
+<info>[B]Rocky Series - [/B]</info>
+</channels>
+</channel>
