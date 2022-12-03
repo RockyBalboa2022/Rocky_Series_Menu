@@ -1,3 +1,14 @@
+
+<channels>
+<channel>
+<name>[B]Rocky Series - Matka[/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yCrzUPiMDEywnpIZj1dgavKaQ35.jpg</thumbnail> Small pic
+<externallink>https://raw.githubusercontent.com/RockyBalboa2022/Rocky_Series_Folder_TXT/main/Serial_Matka.txt</externallink>
+<fanart>https://ipla.pluscdn.pl/dituel/cp/ab/abhv6ahv9fz5smz8km764ge48n4a9zs1.png</fanart> Bic pic
+<info>[B]Po śmierci syna dziennikarka śledcza zamierza rozpocząć nowe życie za granicą. Wtedy na jej drodze staje bohater dawnego reportażu, który prosi o pomoc w rozwiązaniu kryminalnej zagadki.[/B]</info>
+</channels>
+</channel>
+
 <channels>
 <channel>
 <name>[B]Rocky Series - Skazana[/B]</name>
